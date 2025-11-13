@@ -1,0 +1,1 @@
+Extract the zip folder and run the start.bat script inside hitler sim 4.0
